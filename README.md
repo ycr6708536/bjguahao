@@ -75,6 +75,10 @@ doctorName: "扁鹊"
 # DebugLevel: 调试等级
 # 支持的调试等级有 debug/info/warning/error/critical
 DebugLevel: "info"
+
+# 是否使用ios短信和mac电脑接收验证码
+useIMessage: "false"
+
 ```
 
 ## 文档
@@ -100,7 +104,7 @@ DebugLevel: "info"
 ## 致谢
 
 感谢 [yiqian987](https://github.com/yiqian987) 修改 [issues#27](https://github.com/iBreaker/bjguahao/issues/27)
-
+感谢 [cuteapi](https://github.com/cuteapi) 添加 iphone mac 验证码自动获取的功能，抢号神器哦
 若遗漏了您，请发邮件通知我 <791628659@qq.com>
 
 ## 协议

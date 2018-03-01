@@ -1,3 +1,8 @@
+## bjguahao 1.0.1
+* realse date: 2018-03-01
+* 添加requirements.txt文件
+* 支持iphone - MAC验证码自动获取
+
 ## bjguahao 1.0.0
 * realse date: 2018-01-01
 * 从python2环境迁移到python3
